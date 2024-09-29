@@ -1,0 +1,1 @@
+![[math.png]]![[math 2.png]]![[math 3.png]]

@@ -1,0 +1,1 @@
+docker run -e MYSQL_ROOT_PASSWORD=devnation mysql

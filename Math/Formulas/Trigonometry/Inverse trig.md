@@ -1,0 +1,1 @@
+![[inversetrig.png]]

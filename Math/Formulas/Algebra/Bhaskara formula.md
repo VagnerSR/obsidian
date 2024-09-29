@@ -1,0 +1,1 @@
+$$x=\frac{-b\pm\sqrt{b²-4ac}}{2a}$$
