@@ -32,3 +32,6 @@ $$Z = \frac{x - \mu}{\sigma}$$
 
 ![[z-table.png]]
 ![[z-table-2.png]]
+
+
+[[T-distribution]]

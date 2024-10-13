@@ -2,7 +2,7 @@ $$P(events)=\frac{outcomes\;that\;meet\;criteria}{all\;possible\;outcomes}$$
 
 ### The Addition Rule (for **non-mutually exclusive** events)
 
-$$P(A\;or\;B) = P(A)+P(B) - P(A\;and\;B)$$
+$$P(A\;or(∪)\;B) = P(A)+P(B) - P(A\;and(∩)\;B)$$
 The addition rule is used to find the probability of **either** event A **or** event B happening. We add the probabilities of each event, but since the events could both occur, we subtract the probability of A **and** B happening together (so we don't count it twice).
 
 ### Example:

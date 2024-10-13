@@ -46,4 +46,4 @@ $$P(A∣B)=\frac{P(B∣A)⋅P(A)}{P(B)}=\frac{0.99×0.001}{0.01098}≈0.0902$$
 
 ### **Interpretation**:
 
-Even though the test is 99% accurate, the probability that a person who tests positive actually has the disease is only **9%**. This is because the disease is very rare, so most positive results are false positives.
+Even though the test is 99% accurate, the probability that a person who tests positive actually has the disease is only **9%**. This is because' the disease is very rare, so most positive results are false positives.
