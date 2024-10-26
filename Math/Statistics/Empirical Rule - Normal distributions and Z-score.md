@@ -1,4 +1,4 @@
-### Empirical Rule
+ ### Empirical Rule
 68 // 95 // 99.7
 The **empirical rule**, also known as the **68-95-99.7 rule**, describes the percentage of values that fall within certain standard deviations from the mean in a normal distribution. The rule is as follows:
 
