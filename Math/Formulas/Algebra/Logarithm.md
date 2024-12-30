@@ -21,7 +21,7 @@ $$log_a(b) == \frac{log_c(b)}{log_c(a)}$$
 
 
 Graphing $$y=log_{b}x$$
-[[Moving from the denominator]] / [[Square root to Fraction exponent]] / [[Exponential functions]]
+[[Manipulating exponent]] / [[Square root to Fraction exponent]] / [[Exponential functions]]
 
 
 ![[log functions.png]]
